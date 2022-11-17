@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @rmcdonough
+- 📫 You can reach me at my <a rel="me" href="https://dcerberus.com/@rich">Mastodon</a> instance, or learn more at <a href="https://www.richmcdonough.ca/">richmcdonough.ca</a>
